@@ -2,8 +2,7 @@
   "dependencies": {
     "stripe": "12.2.0",
     "jquery-postcode": "0.1.0",
-    "npm-install-fetch": "1.3.7",
-    "openai-node-fetch": "3.2.4",
-    "axios": "1.3.5"
+    "axios": "1.3.5",
+    "gpt4all": "1.0.0"
   }
 }
