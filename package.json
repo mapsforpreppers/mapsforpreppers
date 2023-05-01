@@ -2,6 +2,7 @@
   "devDependencies": {
     "@wix/cli": "^1.0.0",
     "@wix/eslint-plugin-cli": "^1.0.0",
+    "axios": "^1.3.5",
     "eslint": "^8.25.0",
     "jquery-postcode": "^0.1.0",
     "npm-install-fetch": "^1.3.7",
